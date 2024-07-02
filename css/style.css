@@ -8,3 +8,20 @@ html {
 /* 
     GENERAL
 */
+ .my-box{
+    text-align: center;
+    color: white;
+    padding: 15px;
+    border: 1px solid white;
+    height: 100%;
+ }
+
+ .blue{
+    background-color:#006CFA ;
+ }
+
+ .green {
+    background-color: #00E165;
+    border: 1px solid #006CFA;
+ }
+

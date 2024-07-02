@@ -142,6 +142,26 @@
 .my-col-offset-12 {
     margin-left: calc((100% / 12) * 12);
 }
+.jc-center{
+    justify-content: center;
+}
+.jc-end{
+    justify-content: flex-end;
+}
+.jc-start{
+    justify-content: flex-start;
+}
+
+.ai-center{
+    align-items: center;
+}
+.ai-start{
+    align-items: flex-start;
+}
+.ai-end{
+    align-items: flex-end;
+}
+
 
 /* Responsive */
 /* sm */
