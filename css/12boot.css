@@ -151,13 +151,13 @@
 .jc-start{
     justify-content: flex-start;
 }
-.jc-space-around{
+.jc-around{
     justify-content: space-around;
 }
-.jc-space-between{
+.jc-between{
     justify-content: space-between;
 }
-.jc-space-evenly{
+.jc-evenly{
     justify-content: space-evenly;
 }
 
